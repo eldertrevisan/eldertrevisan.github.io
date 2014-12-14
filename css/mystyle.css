@@ -1,0 +1,4 @@
+﻿.imgPort {max-width: 120px;}
+#portifolio li {display: inline-block; padding: 2%;}
+#portifolio li  :hover {position: relative; bottom: 5px;}
+#footer {text-align: center;}
